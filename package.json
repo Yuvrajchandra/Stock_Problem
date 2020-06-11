@@ -1,0 +1,17 @@
+{
+  "name": "demo-hedgefund",
+  "version": "1.0.0",
+  "description": "This is a demo project for Hedge Fund.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuvraj Chandra",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2"
+  }
+}
